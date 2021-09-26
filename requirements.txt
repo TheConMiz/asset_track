@@ -1,0 +1,6 @@
+ipykernel
+xlwings
+segno
+pandas
+numpy
+openpyxl
