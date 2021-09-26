@@ -2,3 +2,4 @@
 piynb_checkpoints
 virtualenv/Lib/
 virtualenv/Scripts/__pycache__
+output
