@@ -4,3 +4,5 @@ segno
 pandas
 numpy
 openpyxl
+pillow
+python-barcode
