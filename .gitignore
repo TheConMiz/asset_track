@@ -1,4 +1,4 @@
 ./.vscode
 ./piynb_checkpoints
-./virtualenv/Lib/
+./virtualenv/Lib
 ./virtualenv/Scripts/__pycache__
