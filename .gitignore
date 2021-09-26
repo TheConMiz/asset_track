@@ -1,5 +1,4 @@
-.vscode
-piynb_checkpoints
-virtualenv/Lib/
-virtualenv/Scripts/__pycache__
-output
+.vscode/
+.ipynb_checkpoints/
+virtualenv/Scripts/
+output/
