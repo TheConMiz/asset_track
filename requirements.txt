@@ -6,3 +6,4 @@ numpy
 openpyxl
 pillow
 python-barcode
+python-dotenv
